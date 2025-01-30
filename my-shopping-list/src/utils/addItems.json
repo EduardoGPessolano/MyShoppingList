@@ -1,0 +1,524 @@
+[
+  {
+    "item_id": 2,
+    "units": 1,
+    "bought": false,
+    "name": "baguette",
+    "price": "3.12",
+    "icon": "baguette.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 3,
+    "units": 1,
+    "bought": false,
+    "name": "bread",
+    "price": "3.11",
+    "icon": "bread.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 4,
+    "units": 1,
+    "bought": false,
+    "name": "cake",
+    "price": "8.42",
+    "icon": "cake.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 5,
+    "units": 1,
+    "bought": false,
+    "name": "croissant",
+    "price": "4.52",
+    "icon": "croissant.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 6,
+    "units": 1,
+    "bought": false,
+    "name": "donut",
+    "price": "2.17",
+    "icon": "donuts.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 7,
+    "units": 1,
+    "bought": false,
+    "name": "muffin",
+    "price": "2.18",
+    "icon": "muffin.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 8,
+    "units": 1,
+    "bought": false,
+    "name": "rolls",
+    "price": "2.48",
+    "icon": "rolls.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 9,
+    "units": 1,
+    "bought": false,
+    "name": "coffe",
+    "price": "12.90",
+    "icon": "coffe.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 10,
+    "units": 1,
+    "bought": false,
+    "name": "grape juice",
+    "price": "3.40",
+    "icon": "grape_juice.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 11,
+    "units": 1,
+    "bought": false,
+    "name": "milk",
+    "price": "2.86",
+    "icon": "milk.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 12,
+    "units": 1,
+    "bought": false,
+    "name": "soda",
+    "price": "2.18",
+    "icon": "soda.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 13,
+    "units": 1,
+    "bought": false,
+    "name": "tea bag",
+    "price": "3.20",
+    "icon": "tea_bag.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 14,
+    "units": 1,
+    "bought": false,
+    "name": "water",
+    "price": "0.57",
+    "icon": "water_bottle.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 15,
+    "units": 1,
+    "bought": false,
+    "name": "wine",
+    "price": "19.80",
+    "icon": "wine.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 16,
+    "units": 1,
+    "bought": false,
+    "name": "orange juice",
+    "price": "3.32",
+    "icon": "orange_juice.png",
+    "category": ["beverages"]
+  },
+  {
+    "item_id": 17,
+    "units": 1,
+    "bought": false,
+    "name": "fries",
+    "price": "8.72",
+    "icon": "frozen_fries.png",
+    "category": ["frozen"]
+  },
+  {
+    "item_id": 18,
+    "units": 1,
+    "bought": false,
+    "name": "pizza",
+    "price": "16.29",
+    "icon": "frozen_pizza.png",
+    "category": ["frozen"]
+  },
+  {
+    "item_id": 19,
+    "units": 1,
+    "bought": false,
+    "name": "ice cream",
+    "price": "14.42",
+    "icon": "ice_cream.png",
+    "category": ["frozen"]
+  },
+  {
+    "item_id": 20,
+    "units": 1,
+    "bought": false,
+    "name": "vegetables",
+    "price": "12.20",
+    "icon": "frozen_vegetables.png",
+    "category": ["frozen"]
+  },
+  {
+    "item_id": 21,
+    "units": 1,
+    "bought": false,
+    "name": "apple",
+    "price": "1.72",
+    "icon": "apple.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 22,
+    "units": 1,
+    "bought": false,
+    "name": "avocado",
+    "price": "2.29",
+    "icon": "avocados.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 23,
+    "units": 1,
+    "bought": false,
+    "name": "banana",
+    "price": "2.42",
+    "icon": "banana.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 24,
+    "units": 1,
+    "bought": false,
+    "name": "carrot",
+    "price": "3.20",
+    "icon": "carrot.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 25,
+    "units": 1,
+    "bought": false,
+    "name": "grapes",
+    "price": "4.53",
+    "icon": "grapes.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 26,
+    "units": 1,
+    "bought": false,
+    "name": "lettuce",
+    "price": "3.32",
+    "icon": "lettuce.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 27,
+    "units": 1,
+    "bought": false,
+    "name": "potato",
+    "price": "3.71",
+    "icon": "potatos.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 28,
+    "units": 1,
+    "bought": false,
+    "name": "tomato",
+    "price": "2.60",
+    "icon": "tomato.png",
+    "category": ["fruits_veg"]
+  },
+  {
+    "item_id": 29,
+    "units": 1,
+    "bought": false,
+    "name": "pie",
+    "price": "14.72",
+    "icon": "pie.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 30,
+    "units": 1,
+    "bought": false,
+    "name": "cookie",
+    "price": "1.99",
+    "icon": "cookie.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 31,
+    "units": 1,
+    "bought": false,
+    "name": "sandwich",
+    "price": "3.42",
+    "icon": "sandwich.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 33,
+    "units": 1,
+    "bought": false,
+    "name": "chips",
+    "price": "4.99",
+    "icon": "chips.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 34,
+    "units": 1,
+    "bought": false,
+    "name": "hot dog",
+    "price": "3.65",
+    "icon": "hot_dog.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 35,
+    "units": 1,
+    "bought": false,
+    "name": "chocolate",
+    "price": "3.82",
+    "icon": "chocolate.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 36,
+    "units": 1,
+    "bought": false,
+    "name": "marshmallow",
+    "price": "4.85",
+    "icon": "marshmallow.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 37,
+    "units": 1,
+    "bought": false,
+    "name": "nuggets",
+    "price": "3.62",
+    "icon": "nuggets.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 38,
+    "units": 1,
+    "bought": false,
+    "name": "pizza",
+    "price": "20.62",
+    "icon": "pizza.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 32,
+    "units": 1,
+    "bought": false,
+    "name": "burger",
+    "price": "6.72",
+    "icon": "burger.png",
+    "category": ["junk"]
+  },
+  {
+    "item_id": 39,
+    "units": 1,
+    "bought": false,
+    "name": "bacon",
+    "price": "7.72",
+    "icon": "bacon.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 41,
+    "units": 1,
+    "bought": false,
+    "name": "eggs",
+    "price": "3.65",
+    "icon": "eggs.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 42,
+    "units": 1,
+    "bought": false,
+    "name": "ground beef",
+    "price": "19.82",
+    "icon": "ground_beef.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 43,
+    "units": 1,
+    "bought": false,
+    "name": "sausage",
+    "price": "6.15",
+    "icon": "sausage.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 44,
+    "units": 1,
+    "bought": false,
+    "name": "shrimp",
+    "price": "17.66",
+    "icon": "shrimp.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 40,
+    "units": 1,
+    "bought": false,
+    "name": "chicken breast",
+    "price": "8.99",
+    "icon": "chicken_breast.png",
+    "category": ["meat_sea"]
+  },
+  {
+    "item_id": 1,
+    "units": 1,
+    "bought": false,
+    "name": "pretzel",
+    "price": "3.25",
+    "icon": "pretzel.png",
+    "category": ["bakery"]
+  },
+  {
+    "item_id": 45,
+    "units": 1,
+    "bought": false,
+    "name": "cleaning products",
+    "price": "17.72",
+    "icon": "cleaning_products.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 46,
+    "units": 1,
+    "bought": false,
+    "name": "deodorant",
+    "price": "7.42",
+    "icon": "deodorant.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 47,
+    "units": 1,
+    "bought": false,
+    "name": "first aid kit",
+    "price": "20.92",
+    "icon": "first_aid_kit.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 48,
+    "units": 1,
+    "bought": false,
+    "name": "hair cream",
+    "price": "7.12",
+    "icon": "hair_cream.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 49,
+    "units": 1,
+    "bought": false,
+    "name": "hair spary",
+    "price": "9.67",
+    "icon": "hair_spray.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 50,
+    "units": 1,
+    "bought": false,
+    "name": "medicie",
+    "price": "29.92",
+    "icon": "medicine.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 51,
+    "units": 1,
+    "bought": false,
+    "name": "razor",
+    "price": "3.92",
+    "icon": "razor.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 52,
+    "units": 1,
+    "bought": false,
+    "name": "shampoo",
+    "price": "10.55",
+    "icon": "shampoo.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 53,
+    "units": 1,
+    "bought": false,
+    "name": "soap",
+    "price": "3.52",
+    "icon": "soap.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 54,
+    "units": 1,
+    "bought": false,
+    "name": "sponge",
+    "price": "0.40",
+    "icon": "sponge.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 55,
+    "units": 1,
+    "bought": false,
+    "name": "sunblock",
+    "price": "14.90",
+    "icon": "sunblock.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 56,
+    "units": 1,
+    "bought": false,
+    "name": "toilet cleaner",
+    "price": "9.42",
+    "icon": "toilet_cleaner.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 57,
+    "units": 1,
+    "bought": false,
+    "name": "toilet paper",
+    "price": "2.42",
+    "icon": "toilet_paper.png",
+    "category": ["utilities"]
+  },
+  {
+    "item_id": 58,
+    "units": 1,
+    "bought": false,
+    "name": "toothpaste",
+    "price": "3.42",
+    "icon": "toothpaste.png",
+    "category": ["utilities"]
+  }
+]
